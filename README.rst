@@ -19,7 +19,6 @@ abs 函数在 Python 源代码中的位置是：``/Python/bltinmodule.c`` 第 30
 是 builtin_abs()
 
 .. code-block:: c
-   :linenos:
 
     /*[clinic input]
     abs as builtin_abs
