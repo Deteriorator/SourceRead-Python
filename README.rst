@@ -15,7 +15,7 @@ abs_
 
 abs()
 
-abs 函数在 Python 源代码中的位置是：``/Python/bltinmodule.c`` 第 309 行，名称\ 
+abs 函数在 Python 源代码中的位置是：``/Python/bltinmodule.c`` 第 343 行，名称\ 
 是 builtin_abs()
 
 .. code-block:: c
